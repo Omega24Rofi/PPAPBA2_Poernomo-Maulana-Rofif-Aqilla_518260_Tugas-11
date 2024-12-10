@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "pertemuan11"
+rootProject.name = "Retrofit API"
 include(":app")
  
